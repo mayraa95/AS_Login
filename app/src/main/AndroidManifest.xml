@@ -16,6 +16,10 @@
         <activity
             android:name=".MenuActivity"
             android:exported="false" />
+        <activity android:name=".TampilMahasiswaActivity"
+            android:label="Mahasiswa"/>
+        <activity android:name=".TambahMahasiswaActivity"
+            android:label="Tambah Mahasiswa"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -21,6 +21,7 @@
         android:layout_columnWeight="1"
         android:background="@android:color/transparent"
         android:drawableRight="@drawable/student"
+        android:id="@+id/tampilMahasiswaButton"
         android:textColor="#fff"
         android:text="Master Mahasiswa"></Button>
 </GridLayout>
