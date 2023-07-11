@@ -12,6 +12,16 @@
         android:layout_width="wrap_content"
         android:layout_columnWeight="1"
         android:background="@android:color/transparent"
+        android:drawableRight="@drawable/img_dollar_128"
+        android:textColor="#fff"
+        android:text="Forex"
+        android:id="@+id/tampilForexButton">
+    </Button>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_columnWeight="1"
+        android:background="@android:color/transparent"
         android:drawableRight="@drawable/img_teenagers_128"
         android:textColor="#fff"
         android:text="Master Pemakai"></Button>
